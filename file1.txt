@@ -6,7 +6,8 @@ Good evening! (From branch master)
 
 8950
 
-000 
+Line from user2
+
 
 5678
 
@@ -15,7 +16,12 @@ git -a 11
 some new feature55555
 New line for GUI
 
+Good By!!!new branch line
 
 
+Update 2021
 
 
+line from user2
+
+line from user1 - lesson about rebase
