@@ -26,4 +26,6 @@ line from user2
 
 line from user1 - lesson about rebase
 
-news
+news 
+
+NEW LINE FOR GUI
